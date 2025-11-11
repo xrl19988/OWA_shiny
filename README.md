@@ -1,3 +1,3 @@
 
-Shinyapp for One-Way ANOVA analysis and visualization.
+A shinyapp for One-Way ANOVA (OWA) analysis and visualization.
 
